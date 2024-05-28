@@ -3,3 +3,5 @@ git merge: merges changes from one branch to another
 git pull: pulls information from the remote repo to your local repo
 
 git status: Shows what changes have been staged, which havent, and what is not being tracked by git.
+
+git config: sets up identity name and email address used with every commit
